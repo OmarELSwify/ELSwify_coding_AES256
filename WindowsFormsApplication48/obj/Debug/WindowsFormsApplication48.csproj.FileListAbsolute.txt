@@ -1,0 +1,31 @@
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsFormsApplication48\WindowsFormsApplication48\bin\Debug\WindowsFormsApplication48.exe.config
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsFormsApplication48\WindowsFormsApplication48\bin\Debug\WindowsFormsApplication48.exe
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsFormsApplication48\WindowsFormsApplication48\bin\Debug\WindowsFormsApplication48.pdb
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsFormsApplication48\WindowsFormsApplication48\obj\Debug\WindowsFormsApplication48.csprojResolveAssemblyReference.cache
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsFormsApplication48\WindowsFormsApplication48\obj\Debug\WindowsFormsApplication48.Form1.resources
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsFormsApplication48\WindowsFormsApplication48\obj\Debug\WindowsFormsApplication48.Properties.Resources.resources
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsFormsApplication48\WindowsFormsApplication48\obj\Debug\WindowsFormsApplication48.csproj.GenerateResource.Cache
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsFormsApplication48\WindowsFormsApplication48\obj\Debug\WindowsFormsApplication48.exe
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsFormsApplication48\WindowsFormsApplication48\obj\Debug\WindowsFormsApplication48.pdb
+C:\Users\Omar ELSwify\Downloads\encrypt file c sharp\WindowsFormsApplication48\WindowsFormsApplication48\bin\Debug\WindowsFormsApplication48.exe.config
+C:\Users\Omar ELSwify\Downloads\encrypt file c sharp\WindowsFormsApplication48\WindowsFormsApplication48\bin\Debug\WindowsFormsApplication48.exe
+C:\Users\Omar ELSwify\Downloads\encrypt file c sharp\WindowsFormsApplication48\WindowsFormsApplication48\bin\Debug\WindowsFormsApplication48.pdb
+C:\Users\Omar ELSwify\Downloads\encrypt file c sharp\WindowsFormsApplication48\WindowsFormsApplication48\obj\Debug\WindowsFormsApplication48.csproj.AssemblyReference.cache
+C:\Users\Omar ELSwify\Downloads\encrypt file c sharp\WindowsFormsApplication48\WindowsFormsApplication48\obj\Debug\WindowsFormsApplication48.csproj.SuggestedBindingRedirects.cache
+C:\Users\Omar ELSwify\Downloads\encrypt file c sharp\WindowsFormsApplication48\WindowsFormsApplication48\obj\Debug\WindowsFormsApplication48.Form1.resources
+C:\Users\Omar ELSwify\Downloads\encrypt file c sharp\WindowsFormsApplication48\WindowsFormsApplication48\obj\Debug\WindowsFormsApplication48.Properties.Resources.resources
+C:\Users\Omar ELSwify\Downloads\encrypt file c sharp\WindowsFormsApplication48\WindowsFormsApplication48\obj\Debug\WindowsFormsApplication48.csproj.GenerateResource.cache
+C:\Users\Omar ELSwify\Downloads\encrypt file c sharp\WindowsFormsApplication48\WindowsFormsApplication48\obj\Debug\WindowsFormsApplication48.csproj.CoreCompileInputs.cache
+C:\Users\Omar ELSwify\Downloads\encrypt file c sharp\WindowsFormsApplication48\WindowsFormsApplication48\obj\Debug\WindowsFormsApplication48.exe
+C:\Users\Omar ELSwify\Downloads\encrypt file c sharp\WindowsFormsApplication48\WindowsFormsApplication48\obj\Debug\WindowsFormsApplication48.pdb
+D:\encrypt file c sharp\WindowsFormsApplication48\WindowsFormsApplication48\bin\Debug\WindowsFormsApplication48.exe.config
+D:\encrypt file c sharp\WindowsFormsApplication48\WindowsFormsApplication48\bin\Debug\WindowsFormsApplication48.exe
+D:\encrypt file c sharp\WindowsFormsApplication48\WindowsFormsApplication48\bin\Debug\WindowsFormsApplication48.pdb
+D:\encrypt file c sharp\WindowsFormsApplication48\WindowsFormsApplication48\obj\Debug\WindowsFormsApplication48.csproj.AssemblyReference.cache
+D:\encrypt file c sharp\WindowsFormsApplication48\WindowsFormsApplication48\obj\Debug\WindowsFormsApplication48.csproj.SuggestedBindingRedirects.cache
+D:\encrypt file c sharp\WindowsFormsApplication48\WindowsFormsApplication48\obj\Debug\WindowsFormsApplication48.Form1.resources
+D:\encrypt file c sharp\WindowsFormsApplication48\WindowsFormsApplication48\obj\Debug\WindowsFormsApplication48.Properties.Resources.resources
+D:\encrypt file c sharp\WindowsFormsApplication48\WindowsFormsApplication48\obj\Debug\WindowsFormsApplication48.csproj.GenerateResource.cache
+D:\encrypt file c sharp\WindowsFormsApplication48\WindowsFormsApplication48\obj\Debug\WindowsFormsApplication48.csproj.CoreCompileInputs.cache
+D:\encrypt file c sharp\WindowsFormsApplication48\WindowsFormsApplication48\obj\Debug\WindowsFormsApplication48.exe
+D:\encrypt file c sharp\WindowsFormsApplication48\WindowsFormsApplication48\obj\Debug\WindowsFormsApplication48.pdb
